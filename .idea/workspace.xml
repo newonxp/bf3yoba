@@ -8,10 +8,10 @@
     <ignored path="yoba.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/styles.css" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376055756424" ignored="false" />
-    <file path="/index.html" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376047943041" ignored="false" />
+    <file path="/index.html" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376056057703" ignored="false" />
     <file path="$PROJECT_DIR$/../Technosila/techmobarweb/static/js/pageFiller.js" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376040286078" ignored="false" />
     <file path="/main.js" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376046417354" ignored="false" />
-    <file path="/Dummy.txt" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376055773440" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376055911904" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="110" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.6528">
+            <state line="44" column="140" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.5648">
               <folding />
             </state>
           </provider>
@@ -215,7 +215,11 @@
       <created>1376055776877</created>
       <updated>1376055776877</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some fixes">
+      <created>1376055914973</created>
+      <updated>1376055914973</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -284,7 +288,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="new bg" />
+    <option name="LAST_COMMIT_MESSAGE" value="some fixes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -299,6 +303,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="new bg" />
+    <MESSAGE value="some fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -325,13 +330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="93" column="18" selection-start="3292" selection-end="3292" vertical-scroll-proportion="0.0">
@@ -339,9 +337,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="110" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.6528">
+        <state line="44" column="140" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.5648">
           <folding />
         </state>
       </provider>
