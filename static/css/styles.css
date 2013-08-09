@@ -90,7 +90,8 @@ body{
 }
 .logo{
     height: 62px;
-    padding: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     text-align: center;
     width: 100%;
     border-bottom: 1px solid white;
