@@ -109,7 +109,11 @@ body{
     margin-bottom: 5px;
 }
 .hiding_container{
-    display:none;
+    height: 0;
+    max-height: 9999px;
+    overflow: hidden;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition: height 0.5s ease-in-out;
 }
 .chapter_container{
     padding-top: 30px;

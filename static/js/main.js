@@ -1,12 +1,16 @@
 function init(){
     $(".poster").click(function (e){addGallery()})
     $(".chapter a").click(function(e) {
-      // $(this).parent().find("div").first().slideToggle("fast");
-        $(this).parent().find("div").first().slideToggle("fast", function(){
-            if($(this).parent().find("div").first().is(":visible")){
-                $("html, body").animate({scrollTop: $(this).parent().offset().top-6});
-            }
-        });
+        var height = $(this).parent().find("div").first().height();
+        if( height > 0 ) {
+            $(this).parent().find("div").first().css('height','0');
+        } else {
+            $(this).parent().find("div").first().css({'position':'absolute','visibility':'hidden','height':'auto'});
+            var newHeight = $(this).parent().find("div").first().height();
+            $(this).parent().find("div").first().css({'position':'static','visibility':'visible','height':'0'});
+            $(this).parent().find("div").first().css('height',newHeight + 'px');
+        }
+
         e.preventDefault();
     })
 }
