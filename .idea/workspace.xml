@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4b18af90-1f4d-4a71-968d-b97ce20f0dea" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/styles.css" afterPath="$PROJECT_DIR$/static/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yoba.iws" />
@@ -12,7 +11,7 @@
     <file path="/index.html" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376047943041" ignored="false" />
     <file path="$PROJECT_DIR$/../Technosila/techmobarweb/static/js/pageFiller.js" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376040286078" ignored="false" />
     <file path="/main.js" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376046417354" ignored="false" />
-    <file path="/Dummy.txt" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376055530610" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b18af90-1f4d-4a71-968d-b97ce20f0dea" time="1376055773440" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="90" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0816">
+            <state line="66" column="110" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.6528">
               <folding />
             </state>
           </provider>
@@ -212,7 +211,11 @@
       <created>1376055532338</created>
       <updated>1376055532338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new bg">
+      <created>1376055776877</created>
+      <updated>1376055776877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -338,7 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="90" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0816">
+        <state line="66" column="110" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.6528">
           <folding />
         </state>
       </provider>
