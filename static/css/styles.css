@@ -114,9 +114,13 @@ body{
     padding-top: 30px;
 }
 .inner_chapter{
-
+    text-align: left;
+    display: inline-block;
+    max-width: 500px;
+    text-decoration: none;
     font-family:Tahoma;
-    margin: 0px;
+    margin: auto;
+    width: auto;
 }
 
 iframe {
@@ -131,5 +135,13 @@ iframe {
     margin-bottom: 10px;
 }
 .poster{
-    max-height: 400px;
+    max-width: inherit;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
 }

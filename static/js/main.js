@@ -38,7 +38,10 @@ $(function() {
     // (You'll probably want to debounce this)
     $(window).resize(function() {
 
-        var newWidth = 420;
+        var newWidth = 500;
+        if($("body").width()<newWidth){
+            newWidth=$("body").width()
+        }
 
         // Resize all videos according to their own aspect ratio
         $allVideos.each(function() {
